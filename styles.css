@@ -1,0 +1,44 @@
+* {
+    background-color: #3535EC;  
+  }
+  
+  header {
+      padding-top: 5%;
+  }
+  
+  
+  h1 {
+      color: #00DE6B;
+      padding-bottom: 3%;
+  }
+  
+  h2 {
+      color: white;
+      padding-bottom: 2%;
+  }
+  
+  h3 {
+      color: black;
+      padding-bottom: 1%;
+  }
+  
+  .btn {
+      background-color: #1DC7D3;
+      color: #E7FAFF;
+      border: 0;
+  }
+  
+  .btn.btn-danger:hover {
+  background-color: #1DC7D3;
+  color: #E7FAFF;
+      border: 0;
+  }
+  
+  a {
+      background-color: #1DC7D3;
+      color: #E7FAFF;
+      text-decoration: none;
+  }
+  
+
+  
